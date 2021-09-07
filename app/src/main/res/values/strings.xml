@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <string name="MainActivity_btn_calculator">CALCULADORA</string>
+    <string name="MainActivity_btn_questionnaire">CUESTIONARIO</string>
+    <string name="MainActivity_btn_exit">SALIR</string>
+    <string name="MainActivity_btn_tab">FragmentTabhost</string>
+    <string name="MainActivity_btn_formu">FORMULARIO</string>
+</resources>

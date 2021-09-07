@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grado">
+        <item>Primaria</item>
+        <item>Segundaria</item>
+        <item>Universitaria</item>
+    </string-array>
+</resources>
